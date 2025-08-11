@@ -15,11 +15,11 @@
 
 ### Front-End:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,ts,react,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,ts,react)](https://skillicons.dev)
 
 ### Back-End:
 
-[![My Skills](https://skillicons.dev/icons?i=firebase,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=firebase,mysql,laravel)](https://skillicons.dev)
 
 ### Bibliotecas:
 
