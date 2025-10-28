@@ -2,7 +2,7 @@
 
 ### Eu sou o Cawan Henrique.
 
-#### Desenvolvedor Front-End de 18 anos que desenvolveu paixão por tecnologia aos 12 anos. Busco me aperfeiçoar e cada vez mais evoluir como programador. Tenho experiência em projetos pessoais.💻
+#### Desenvolvedor FullStack de 18 anos que desenvolveu paixão por tecnologia aos 12 anos. Busco me aperfeiçoar e cada vez mais evoluir como programador. Tenho experiência em projetos pessoais.💻
 
 ![Visualizações](https://komarev.com/ghpvc/?username=CawanHenrique&label=Profile%20views&color=0e75b6&style=flat)
 
