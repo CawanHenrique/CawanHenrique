@@ -2,7 +2,7 @@
 
 ### Eu sou o Cawan Henrique.
 
-#### Desenvolvedor FullStack de 18 anos que desenvolveu paixão por tecnologia aos 12 anos. Busco me aperfeiçoar e cada vez mais evoluir como programador. Tenho experiência em projetos pessoais.💻
+#### Desenvolvedor FullStack de 19 anos que desenvolveu paixão por tecnologia aos 12 anos. Busco me aperfeiçoar e cada vez mais evoluir como programador. Tenho experiência em projetos reais.💻
 
 ![Visualizações](https://komarev.com/ghpvc/?username=CawanHenrique&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -15,11 +15,15 @@
 
 ### Front-End:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,ts,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,ts,react,vue)](https://skillicons.dev)
 
 ### Back-End:
 
-[![My Skills](https://skillicons.dev/icons?i=firebase,mysql,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=firebase,mysql,laravel,sql,php)](https://skillicons.dev)
+
+### Automação:
+
+[![My Skills](https://skillicons.dev/icons?i=node,python)](https://skillicons.dev)
 
 ### Bibliotecas:
 
