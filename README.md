@@ -19,19 +19,19 @@
 
 ### Back-End:
 
-[![My Skills](https://skillicons.dev/icons?i=firebase,mysql,laravel,sql,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=firebase,mysql,laravel,postgres,php,sqlite)](https://skillicons.dev)
 
 ### Automação:
 
-[![My Skills](https://skillicons.dev/icons?i=node,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,py)](https://skillicons.dev)
 
 ### Bibliotecas:
 
-[![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap,materialui)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap,materialui,selenium)](https://skillicons.dev)
 
 ### Versionamento:
 
-[![My Skills](https://skillicons.dev/icons?i=git,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,cloudflare)](https://skillicons.dev)
 
 ## 📊 GitHub Stats:
 
